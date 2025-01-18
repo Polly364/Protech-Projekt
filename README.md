@@ -13,7 +13,7 @@ Unser Programm CineRadar ist ein Kino-Bestellsystem, welches Kinobesuche erleich
   - IntelliJ IDEA Community Edition: Empfohlen für die Entwicklung und Ausführung
  
   # Installation
-  1. Klone das Repository auf deinen Rechner:
+  1. Klone das Repository auf deinen Rechner: https://github.com/Polly364/Protech-Projekt.git
   2. Öffne das Projekt in IntelliJ IDEA Community Edition.
   3. Stelle sicher, dass ein JDK (Version 11 oder höher) installiert und konfiguriert ist.
   4. Führe die Datei Kino.java und KinoBestellung.java aus, um die Anwendung zu starten.
